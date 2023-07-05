@@ -1,4 +1,5 @@
 import ExpenseDate from './ExpenseDate'
+import Card from './Card'
 import './ExpenseItem.css';
 
 // component is just js function
@@ -17,13 +18,13 @@ function ExpenseItem(props) {
   // 需要将date的data重新pass进ExpenseDate（child component）<ExpenseDate date={props.date}/>
   // 为了让css能用，记得加className 
   return (
-    <div className='expense-item'>
+    <Card className='expense-item'>
       <ExpenseDate date={props.date}/>
       <div className='expense-item__description'>
         <h2>{props.title}</h2>
         <div className='expense-item__price'>${props.amount}</div>
       </div>
-    </div>
+    </Card>
   );
 }
 
