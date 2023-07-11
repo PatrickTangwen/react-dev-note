@@ -23,3 +23,4 @@ Create and checkout to a new branch: `git checkout -b [branchname]`<br>
 Put you files into the repo<br>
 `git add .`<br>
 `git commit -m "message"`<br>
+`git push origin example-tutorial-branch`
