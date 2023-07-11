@@ -24,3 +24,19 @@ Put you files into the repo<br>
 `git add .`<br>
 `git commit -m "message"`<br>
 `git push origin example-tutorial-branch`
+
+
+### Create an react server:<br>
+cd to your desired dir and then<br>
+1.npx create-react-app react-proj-name<br>
+2.cd react-proj-name<br>
+3.npm start<br>
+
+### To add new package: npm install - - save d3 (must be in the react-proj-name dir)<br>
+
+#### How to start a server from a downloaded react project:<br>
+1 cd to react-proj-name<br>
+2 npm install<br>
+3 npm install - - save d3 (- - should be concated)<br>
+4 npm start<br>
+
