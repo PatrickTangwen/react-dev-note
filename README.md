@@ -38,5 +38,6 @@ cd to your desired dir and then<br>
 1 cd to react-proj-name<br>
 2 npm install<br>
 3 npm install - - save d3 (- - should be concated)<br>
-4 npm start<br>
+4 npm install react-bootstrap bootstrap
+5 npm start<br>
 
