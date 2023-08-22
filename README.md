@@ -1,5 +1,8 @@
 # REACT NOTE
+### To use Vite + React:<br>
+[Create a new React with Vite](https://scrimba.com/articles/create-react-app-with-vite/)
 
+### Opening a React Project:<br>
 Before starting the server: `npm install`.<br>
 To start the server:`npm start`<br>
 
