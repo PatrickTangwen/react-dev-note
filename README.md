@@ -1,4 +1,4 @@
-# react_expense
+# REACT NOTE
 
 Before starting the server: `npm install`.<br>
 To start the server:`npm start`<br>
