@@ -27,7 +27,7 @@ Put you files into the repo<br>
 
 
 ### Create an react server:<br>
-cd to your desired dir and then<br>
+**cd to your desired dir and then<br>**
 1.npx create-react-app react-proj-name<br>
 2.cd react-proj-name<br>
 3.npm start<br>
