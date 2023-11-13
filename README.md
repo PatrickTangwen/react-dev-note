@@ -45,3 +45,9 @@ Put you files into the repo<br>
 4 npm install react-bootstrap bootstrap
 5 npm start<br>
 
+![image](https://github.com/PatrickTangwen/react-dev-note/assets/102566928/1db568ad-5e4b-469c-8fce-ae1fb94f592c)
+### useful url: https://stackoverflow.com/questions/54571213/how-to-fix-the-project-you-were-looking-for-could-not-be-found-when-using-git
+![image](https://github.com/PatrickTangwen/react-dev-note/assets/102566928/0a7662ac-1611-42f2-b7fa-228cd9bee3ba)
+
+![image](https://github.com/PatrickTangwen/react-dev-note/assets/102566928/0ce87ca8-c4c8-4078-bf4b-ebf781d06848)
+
