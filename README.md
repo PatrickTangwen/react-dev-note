@@ -45,6 +45,12 @@ Put you files into the repo<br>
 4 npm install react-bootstrap bootstrap
 5 npm start<br>
 
+上传SDSC Git Repo流程:
+1 首先git clone https://oauth2:glpat-CKZ3VxrRZ1YUQp7mPeyK@gitlab.com/sdsc-rds/client-services/cwu/react.git/ (可能需要更新personal token) <br>
+2 remove 所有要上传的project folder里的.git 文件<br>
+3 把要上传的project folder放进sdsc的repo里<br>
+4 正常git checkout new-branch <br>
+
 ![image](https://github.com/PatrickTangwen/react-dev-note/assets/102566928/1db568ad-5e4b-469c-8fce-ae1fb94f592c)
 ### useful url: https://stackoverflow.com/questions/54571213/how-to-fix-the-project-you-were-looking-for-could-not-be-found-when-using-git
 ![image](https://github.com/PatrickTangwen/react-dev-note/assets/102566928/0a7662ac-1611-42f2-b7fa-228cd9bee3ba)
